@@ -1,0 +1,45 @@
+# LaTeX compilation files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+
+# PDF output
+*.pdf
+
+# Intermediate files
+*.dvi
+*.ps
+*.eps
+
+# Bibliography
+*.bib.bak
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
